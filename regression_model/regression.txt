@@ -1,0 +1,29 @@
+Different types of regression model : 
+
+1) Linear 
+2) Ridge
+3) Lasso
+4) Polynomial 
+5) Random Forrest 
+
+
+
+
+
+clustering algorithm for first statement 
+classification(regression) for 2nd statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+K4 Permutation 
